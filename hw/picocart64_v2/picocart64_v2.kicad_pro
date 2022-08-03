@@ -429,8 +429,12 @@
       ""
     ],
     [
-      "f25da3df-efb0-431b-84cf-3f95179cd5db",
+      "18bc2029-d732-4df0-8cd4-b3abe43b5862",
       "PSRAM Array"
+    ],
+    [
+      "a45f4a80-c0aa-44a7-9a38-7c9b17fbae2c",
+      "Mainboard"
     ]
   ],
   "text_variables": {}
