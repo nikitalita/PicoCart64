@@ -435,6 +435,10 @@
     [
       "a45f4a80-c0aa-44a7-9a38-7c9b17fbae2c",
       "Mainboard"
+    ],
+    [
+      "eddb86bd-9206-456a-9ce6-a47edcb4b42b",
+      "overview"
     ]
   ],
   "text_variables": {}

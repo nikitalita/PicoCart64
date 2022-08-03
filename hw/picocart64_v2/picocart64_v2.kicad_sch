@@ -148,10 +148,23 @@
     )
   )
 
+  (sheet (at 111.76 38.735) (size 61.595 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid eddb86bd-9206-456a-9ce6-a47edcb4b42b)
+    (property "Sheet name" "overview" (id 0) (at 111.76 38.0234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "overview.kicad_sch" (id 1) (at 111.76 60.9096 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/18bc2029-d732-4df0-8cd4-b3abe43b5862" (page "2"))
     (path "/a45f4a80-c0aa-44a7-9a38-7c9b17fbae2c" (page "3"))
+    (path "/eddb86bd-9206-456a-9ce6-a47edcb4b42b" (page "4"))
   )
 
   (symbol_instances
